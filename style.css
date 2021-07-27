@@ -1,0 +1,36 @@
+img{
+    max-width: 100%;
+}
+/* header-style */
+.header-part{
+    background-color: #EBF8FF;
+}
+header nav ul li{
+    padding:0 20px;
+}
+header nav ul li a:hover{
+    color: rgb(0, 29, 26);
+}
+.menu-bar{
+    background-color: #EBF8FF;
+    background-attachment: fixed;
+    height: 100%;
+}
+.menu-button{
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    border: 1px solid blue;
+}
+.menu-button:hover{
+    background-color: blue;
+    color: white;
+}
+/* banner */
+.banner-heading{
+    color: lightslategray;
+    font-weight: 700;
+    margin-top: 110px;
+}
+main{
+    overflow: hidden;
+}
